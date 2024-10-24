@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6A9C89;
+}
+
+.main-head {
+  color: #E9EFEC;
+}
+
+.btn-add,
+.btn-add:hover {
+  background-color: #16423C;
+  color: #C4DAD2;
+}
+
+
+
+.dropdown-btn {
+  background-color: #16423C;
+  border: none;
+}
+
+.dropdown-btn:hover {
+  background-color: #6A9C89;
+}
+
+.dropdown-btn:focus {
+  background-color: #6A9C89;
+}
+
+.todo-card {
+  width: 30%;
+  background-color: #6A9C89;
+}
+
+.todo-item {
+  background-color: #E9EFEC;
+}
+
+.btn-action {
+  background-color: #16423C;
+  margin-right: 2px;
+  color: white;
+}
+
+.to-check:checked {
+  color: #16423C;
+}
+
+.btn-plus {
+  background-color: #16423C;
+  margin-left: 10px;
+}
